@@ -1,0 +1,230 @@
+#EXTM3U
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="http://marcooliveira.pt/wp-content/uploads/2016/02/rtp.jpg",RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://ccdn.pw:80/EFjGN/844UACmmh/74931.ts
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17227489.548c24db303e0.jpg",RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://ccdn.pw:80/EFjGN/844UACmmh/74934.ts
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1414
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg",CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1412
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg",SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1416
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://1.bp.blogspot.com/-r7_JYg_26pw/XA0Lc75e3WI/AAAAAAAAciw/aWjKGvDQ7jkafjPv6VqhWvYvfHqhW20mgCPcBGAYYCw/w1200-h630-p-k-no-nu/SIC%2BMulher%2B-%2BNatal%2B2018.jpg",SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1427
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/SIC_Caras_logo.png/150px-SIC_Caras_logo.png",SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/5910
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="http://freeweb.t-2.net/itak/LOGO/24Kitchen_HD.png",24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2025
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1473
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalaxn_fd18fa5a810269d31ed3236e86240a0c6d9d0bf0.jpeg",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1469
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalaxn_fd18fa5a810269d31ed3236e86240a0c6d9d0bf0.jpeg",AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1471
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalaxn_fd18fa5a810269d31ed3236e86240a0c6d9d0bf0.jpeg",AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1467
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png",CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132905?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png",Canal Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1455
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/5914
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="http://4.bp.blogspot.com/-t68X-2OUjoA/VkzABliTyHI/AAAAAAAACQ4/UcZR0EkGaOE/s1600/fox-comedy_destak_300x216_logo.jpg",FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2208?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://spng.pngfind.com/pngs/s/131-1311375_comedy-png-hd-fox-comedy-transparent-png.png",FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1463
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.logolynx.com/images/logolynx/05/050ac15a8b20a2fc030cbc138a795859.jpeg",FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1465
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://exchange4media.gumlet.com/news-photo/1504702855_K5qidc_70392.jpg?w=500",FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1459
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://brandlogos.net/wp-content/uploads/2017/06/fox-movies-logo.png",FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2207?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://img1.gratispng.com/20180825/vhu/kisspng-history-television-channel-logo-a-e-networks-history-reveals-dynamic-summer-original-programmin-5b81f1acac9734.8424988815352426687069.jpg",HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2227?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.logolynx.com/images/logolynx/0c/0c6fd303bb364b080255b13bfd3b611b.jpeg",INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136671?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.nos.pt/particulares/PublishingImages/Banners/NOSStudios/thumbNOSStudios.png",NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1454
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseiaantes.png",ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1532
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1479
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://lh3.googleusercontent.com/F6fgXrI-_eMvaqPPrr97GsFLmYogUpmA6OUt-89iwdDplsN7RnvK-47boBA1zyjnXQ",TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136662?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://pbs.twimg.com/profile_images/902819051549802496/kGZvWc4D_400x400.jpg",SYFY Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1475
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png",Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1529
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1452
+#EXTINF:-1 group-title="Televisão Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/82254
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw",PANDA KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290678
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png",SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4021
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1441
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png",BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1439
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw",Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1438
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1434
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1486
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1489
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1492
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1495
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/281487
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png",SPORT TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2051
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1499
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1503
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1506
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1509
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1512
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg",ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1515
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png",Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1517
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png",SEurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1518
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://ewsat.com/img/SPORTING.png",SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1519
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg",Benfica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1497
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png",NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://aipaipara.xyz/nba/tracks-v1/mono.m3u8?token=6471858c9e11206503fa0a9462027488ea06fcdb-68f0a3881e0639655b31a2f30a1995e7-1656475334-1656468134
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png",CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1480
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://tvepg.eu/img/germany/logo/motorvision_tv.png",MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4012
+#EXTINF:-1 group-title="Canais Desportivos" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png",REDBULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT Interior SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png",SBT TV Aratu (BA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Cidade Verde - (PI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Floresta (PA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://streaming.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Difusora (MA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Serra Dourada - (GO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT Rede Massa (PR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png",SBT TV Paraense (PA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png",SBT TV Guajará (PA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal (PE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal Caruaru (PE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV MT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV MT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV RN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV NDTV SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png",Band - RBA TV (PA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png",RedeTV! TV Arapuan HD (PB)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png",TV Pampa - RedeTV! RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png",RedeTV! Tocantins
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png",RedeTV! TV Pantanal (MT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png",KpopTV Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg",AniTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png",StrikerVerso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/xtreme.png",XTreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png",YEEAAH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png",Anime TV - WebTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png",Loading - Web TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png",Jetsons - Webtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png",TV Gazeta (SP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png",Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png",Rede Brasil (SP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png",Brasil Oeste (MT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png",TV Várzea Grande (MT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png",TV MAIS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livecdn2.eventials.com/live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhdGlvbl9uYW1lIjoiZXZlbnRpYWxzTGl2ZVRWIiwicHVibGlzaF9zdHJlYW1fbmFtZSI6InBkbml2MWkzbnkydXo0dmoifQ.JwWm054lZWMRmWPYBOrPs-urhvH8UY6pwxuMMwhTgUw/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Cultura - TV Guará (MA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Cultura - TV Futuro (RJ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png",Cultura Pará
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png",Catve - Cultura (PR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png",Rede Metrópole
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png",Paraná Turismo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png",Kuriakos Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg",TVE Bahia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png",Retrô Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png",AWTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png",Vintage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg",Rede Minas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png",TV União (DF)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png",Rede Família
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png",TV8 Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/tvbs.png",TVBS - Web TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg",Rede Clone - WebTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png",TV Brasil  - Joinville
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png",TVE RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;maxbitrate=0&amp;&Buffer=20191129153332&url=http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
