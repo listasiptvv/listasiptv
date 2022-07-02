@@ -3,19 +3,19 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]PORTUGAL TV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/listasiptvv/world/main/PORTUGAL%20TV/menu</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]BRASIL TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]BRASIL TV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ESPANHA TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]ESPANHA TV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 </channel>
