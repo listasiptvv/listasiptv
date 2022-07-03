@@ -8,4 +8,12 @@
 <externallink>https://raw.githubusercontent.com/listasiptvv/world/main/PORTUGAL%20TV/portugal1.m3u</externallink>
 </channel>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]PORTUGAL 2[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/PORTUGAL%20TV/portugal2.m3u</externallink>
+</channel>
+
+
 </channels>
