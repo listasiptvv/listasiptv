@@ -1,5 +1,28 @@
 <layouttype>thumbnail</layouttype>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]CINEMA[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]SPORTS[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]RADIOS[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/Radios%20Online/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]PLUTO TV[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/PLUTO%20TV/menu</externallink>
+</channel>
 
 <channels>
 <channel>
@@ -18,18 +41,6 @@
 <name>[B][COLOR lime]●[/COLOR][COLOR white]ESPANHA TV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/listasiptvv/world/main/ESPANHA%20TV/menu</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white]PLUTO TV[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/PLUTO%20TV/menu</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white]RADIOS[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/Radios%20Online/menu</externallink>
 </channel>
 
 </channels>
