@@ -24,6 +24,13 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white]TRANCE RADIO[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/listasiptvv/world/main/Radios%20Online/trance.m3u</externallink>
+</channel>
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR][COLOR white]PORTUGAL RADIO[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/listasiptvv/world/main/Radios%20Online/portugal.m3u</externallink>
